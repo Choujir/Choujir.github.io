@@ -2,7 +2,7 @@ chcp 65001
 cd /dP:\Hugo_Blog
 
 
-hugo --theme=prav
+hugo --theme=clarity
 cd public
 
 git remote add origin git@github.com:Choujir/Choujir.github.io.git
