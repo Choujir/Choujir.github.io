@@ -10,3 +10,8 @@ git status
 git add .
 git commit -m "Add a new Hugo post"
 git push -u origin master
+
+
+
+
+start https://choujir.github.io/
