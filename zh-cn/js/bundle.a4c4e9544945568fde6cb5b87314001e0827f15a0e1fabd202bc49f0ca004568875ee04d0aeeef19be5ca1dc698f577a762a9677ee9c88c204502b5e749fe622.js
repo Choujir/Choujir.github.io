@@ -10,18 +10,18 @@ const imageAltClass = 'img_alt';
 
 
 const defaultSiteLanguage = 'en-us';
-const baseURL = 'http://example.org/';
+const baseURL = 'htttps://choujir.github.io';
 const searchFieldClass = '.search_field';
 const searchClass = '.search';
 const goBackClass = 'button_back';
 const lineClass = '.line';
 
 // defined in i18n / translation files
-const quickLinks = 'Results';
-const searchResultsLabel = 'Search Results';
-const shortSearchQuery = 'Query is too short'
-const typeToSearch = 'Type to search';
-const noMatchesFound = 'No results found';
+const quickLinks = '';
+const searchResultsLabel = '';
+const shortSearchQuery = ''
+const typeToSearch = '';
+const noMatchesFound = '';
 
 ;
 // global variables
