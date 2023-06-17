@@ -9,7 +9,7 @@ cat .git/config
 git status
 git add .
 git commit -m "Add a new Hugo post"
-git push -u origin master
+git push -u origin hugo_git
 
 
 
