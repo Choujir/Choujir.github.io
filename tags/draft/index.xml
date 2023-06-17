@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>choujir.github.io</title>
-    <link>https://choujir.github.io/</link>
-    <description>Recent content on choujir.github.io</description>
+    <title>draft on choujir.github.io</title>
+    <link>https://choujir.github.io/tags/draft/</link>
+    <description>Recent content in draft on choujir.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 Mar 2023 20:35:00 +0000</lastBuildDate><atom:link href="https://choujir.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Mar 2023 20:35:00 +0000</lastBuildDate><atom:link href="https://choujir.github.io/tags/draft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>电路原理</title>
       <link>https://choujir.github.io/post/2023_06_17_5-%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86/</link>
