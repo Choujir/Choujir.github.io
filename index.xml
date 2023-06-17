@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>htttps://choujir.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jun 2023 17:13:32 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 17 Jun 2023 17:13:32 +0800</lastBuildDate><atom:link href="htttps://choujir.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023_06_17_ojjij</title>
-      <link>http://example.org/post/2023_06_17_ojjij/</link>
+      <link>htttps://choujir.github.io/post/2023_06_17_ojjij/</link>
       <pubDate>Sat, 17 Jun 2023 17:13:32 +0800</pubDate>
       
-      <guid>http://example.org/post/2023_06_17_ojjij/</guid>
+      <guid>htttps://choujir.github.io/post/2023_06_17_ojjij/</guid>
       <description>
         
           
