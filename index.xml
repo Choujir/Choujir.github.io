@@ -6,5 +6,23 @@
     <description>Recent content on choujir.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language><atom:link href="https://choujir.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://choujir.github.io/post/2023_06_17_5-%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://choujir.github.io/post/2023_06_17_5-%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86/</guid>
+      <description>
+        
+          
+            title: 电路原理 author: John Doe tags:
+toDo date: 2023-03-28 20:35:00 markup: pandoc 版权信息 内容提要 前言 第1章 电路的基本概念和基本定律 1.1 实际电路和电路模型 1.2 电路中基本物理量及参考方向 1.3 电阻、电感和电容元件 1.4 独立电源 1.5 受控源 1.6 基尔霍夫定律 1.7 仿真 第2章 简单电阻电路的等效变换 2.1 引言 2.2 电阻的串联和并联 2.3 电阻的Y连接和△连接及其等效变换 $$ {r_a} + {\textstyle{{{r_b}{r_c}} \over {{r_b} + {r_c}}}} = {\textstyle{{{R_b}{R_c}} \over {{R_b} + {R_c}}}} $$ $$ Rb = {\textstyle{{{r_a}{r_b} + {r_a}{r_c} + {r_b}{r_c}} \over {{r_a} + {r_c}}}} $$
+2.4 电压源、电流源的等效变换 2.5 输入电阻 2.
+          
+          
+        
+      </description>
+    </item>
+    
   </channel>
 </rss>
